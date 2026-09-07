@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @CbastianLo
-- 👀 I’m interested in learn about diferent code lenguages
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on diferent projects to improve my skills 
-- 📫 How to reach me: https://t.me/CbastianLo
+- 👋Hi, I don't know nothing about code programming but I can use claude to create shit will be used just by me.
 
 <!---
 CbastianLo/CbastianLo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
